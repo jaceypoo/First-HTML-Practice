@@ -1,1 +1,1 @@
-First html tutorial using basic tags 
+First html tutorial using basic tags <h1> <p>
