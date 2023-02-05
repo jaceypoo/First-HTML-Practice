@@ -1,3 +1,1 @@
-# First-HTML-Practice
-# First-HTML-Practice
-# First-HTML-Practice
+First html tutorial using basic tags like <h1> and <p>
